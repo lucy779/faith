@@ -1,4 +1,4 @@
-local users = {"JackTheAngel_God", "Stolas_HelluvaBosss", "Antispiral0"}
+local users = {"JackTheAngel_God", "Stolas_HelluvaBosss", "AntiSpiral0"}
 local blacklisted = {}
 local whitelisted = {}
 return users, blacklisted, whitelisted
