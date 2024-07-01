@@ -1,5 +1,5 @@
 print("executed voidious v4 (build 14)")
-local execute_permission, blacklisted, whitelisted = loadstring(game:HttpGet("https://raw.githubusercontent.com/lucy779/God/main/tables.txt"))()
+local execute_permission, blacklisted, whitelisted = loadstring(game:HttpGet("https://raw.githubusercontent.com/lucy779/god/main/tables.txt"))()
 
 while game.Players.LocalPlayer == nil do
 	wait(0.1)
